@@ -1,194 +1,148 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-07-15T21:45:30.666-00:00",
+	"CreationDate" : "2026-07-15T22:09:16.407-00:00",
 	"Sources" : 
 	[
 		{
 			"Packages" : 
 			[
 				{
-					"PackageIdentifier" : "Git.Git",
-					"Version" : "2.55.0.3"
+					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier" : "GnuPG.GnuPG",
-					"Version" : "2.5.21"
+					"PackageIdentifier" : "GnuPG.GnuPG"
 				},
 				{
-					"PackageIdentifier" : "GnuPG.Gpg4win",
-					"Version" : "5.0.2"
+					"PackageIdentifier" : "GnuPG.Gpg4win"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.Office",
-					"Version" : "16.0.20131.20126"
+					"PackageIdentifier" : "Microsoft.Office"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.113.0614.0004"
+					"PackageIdentifier" : "Microsoft.OneDrive"
 				},
 				{
-					"PackageIdentifier" : "uvncbvba.UltraVNC",
-					"Version" : "1.8.2.4"
+					"PackageIdentifier" : "uvncbvba.UltraVNC"
 				},
 				{
-					"PackageIdentifier" : "Unity.Unity.2022",
-					"Version" : "2022.3.62f3"
+					"PackageIdentifier" : "Unity.Unity.2022"
 				},
 				{
-					"PackageIdentifier" : "Unity.UnityHub",
-					"Version" : "3.19.4"
+					"PackageIdentifier" : "Unity.UnityHub"
 				},
 				{
-					"PackageIdentifier" : "Dell.CommandUpdate.Universal",
-					"Version" : "5.7.0"
+					"PackageIdentifier" : "Dell.CommandUpdate.Universal"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64",
-					"Version" : "10.0.40219"
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
 				},
 				{
-					"PackageIdentifier" : "Posit.Quarto",
-					"Version" : "1.9.38"
+					"PackageIdentifier" : "Posit.Quarto"
 				},
 				{
-					"PackageIdentifier" : "RevoUninstaller.RevoUninstaller",
-					"Version" : "2.6.0"
+					"PackageIdentifier" : "RevoUninstaller.RevoUninstaller"
 				},
 				{
-					"PackageIdentifier" : "Dropbox.Dropbox",
-					"Version" : "262.3.3075"
+					"PackageIdentifier" : "Dropbox.Dropbox"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "150.0.4078.65"
+					"PackageIdentifier" : "Microsoft.Edge"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Community",
-					"Version" : "17.14.36"
+					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Community"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64",
-					"Version" : "12.0.40664.0"
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6",
-					"Version" : "> 6.0.36"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64",
-					"Version" : "14.51.36247.0"
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
 				},
 				{
-					"PackageIdentifier" : "Python.Launcher",
-					"Version" : "> 3.13.5"
+					"PackageIdentifier" : "Python.Launcher"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7",
-					"Version" : "7.0.20"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
-					"Version" : "8.0.29"
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8"
 				},
 				{
-					"PackageIdentifier" : "Google.ChromeRemoteDesktopHost",
-					"Version" : "151.0.7922.13"
+					"PackageIdentifier" : "Google.ChromeRemoteDesktopHost"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.7",
-					"Version" : "7.0.20"
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.7"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86",
-					"Version" : "14.51.36247.0"
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6",
-					"Version" : "6.0.36"
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6"
 				},
 				{
-					"PackageIdentifier" : "Dell.Optimizer",
-					"Version" : "6.3.3.0"
+					"PackageIdentifier" : "Dell.Optimizer"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.Runtime.5",
-					"Version" : "5.0.17"
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.5"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerShell",
-					"Version" : "7.5.8.0"
+					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
-					"PackageIdentifier" : "Brave.Brave.Beta",
-					"Version" : "150.1.93.118"
+					"PackageIdentifier" : "Brave.Brave.Beta"
 				},
 				{
-					"PackageIdentifier" : "astral-sh.uv",
-					"Version" : "0.11.28"
+					"PackageIdentifier" : "astral-sh.uv"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VisualStudioCode",
-					"Version" : "1.128.1"
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
-					"PackageIdentifier" : "Python.Python.3.13",
-					"Version" : "3.13.14"
+					"PackageIdentifier" : "Python.Python.3.13"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.AppInstaller",
-					"Version" : "1.29.280.0"
+					"PackageIdentifier" : "Microsoft.AppInstaller"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
-					"Version" : "2.2.28604.0"
+					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.UI.Xaml.2.7",
-					"Version" : "7.2409.9001.0"
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.7"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8",
-					"Version" : "8.2511.26001.0"
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VCLibs.Desktop.14",
-					"Version" : "14.0.33728.0"
+					"PackageIdentifier" : "Microsoft.VCLibs.Desktop.14"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VCLibs.14",
-					"Version" : "14.0.33519.0"
+					"PackageIdentifier" : "Microsoft.VCLibs.14"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.4",
-					"Version" : "1.4.7"
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.4"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.5",
-					"Version" : "1.5.9"
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.5"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.6",
-					"Version" : "1.6.9"
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.6"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.7",
-					"Version" : "1.7.9"
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.7"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.8",
-					"Version" : "> 1.8.9"
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.8"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsTerminal",
-					"Version" : "1.24.11321.0"
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WSL",
-					"Version" : "2.7.10.0"
+					"PackageIdentifier" : "Microsoft.WSL"
 				},
 				{
-					"PackageIdentifier" : "Debian.Debian",
-					"Version" : "1.26.0.0"
+					"PackageIdentifier" : "Debian.Debian"
 				}
 			],
 			"SourceDetails" : 
