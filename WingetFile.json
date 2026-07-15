@@ -1,11 +1,20 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
 	"CreationDate" : "2026-07-15T22:51:03.374-00:00",
-	"Sources" : 
+	"Sources" :
 	[
 		{
-			"Packages" : 
+			"Packages" :
 			[
+				{
+					"PackageIdentifier" : "MullvadVPN.MullvadVPN"
+				},
+				{
+					"PackageIdentifier" : "7zip.7zip"
+				},
+				{
+					"PackageIdentifier" : "Audacity.Audacity"
+				},
 				{
 					"PackageIdentifier" : "Git.Git"
 				},
@@ -14,6 +23,15 @@
 				},
 				{
 					"PackageIdentifier" : "GnuPG.Gpg4win"
+				},
+				{
+					"PackageIdentifier" : "HermannSchinagl.LinkShellExtension"
+				},
+				{
+					"PackageIdentifier" : "IrfanSkiljan.IrfanView"
+				},
+				{
+					"PackageIdentifier" : "Mozilla.Thunderbird.ja"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Office"
@@ -31,6 +49,12 @@
 					"PackageIdentifier" : "Unity.UnityHub"
 				},
 				{
+					"PackageIdentifier" : "VideoLAN.VLC"
+				},
+				{
+					"PackageIdentifier" : "OliverSchwendener.ueli"
+				},
+				{
 					"PackageIdentifier" : "Dell.CommandUpdate.Universal"
 				},
 				{
@@ -40,22 +64,55 @@
 					"PackageIdentifier" : "Posit.Quarto"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.WebDeploy"
+				},
+				{
+					"PackageIdentifier" : "gerardog.gsudo"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
+				},
+				{
+					"PackageIdentifier" : "Google.GoogleDrive"
+				},
+				{
 					"PackageIdentifier" : "RevoUninstaller.RevoUninstaller"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom"
+				},
+				{
+					"PackageIdentifier" : "HP.HPCloudRecoveryTool"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2022.BuildTools"
+				},
+				{
+					"PackageIdentifier" : "HARMAN.AdobeAIR"
 				},
 				{
 					"PackageIdentifier" : "Dropbox.Dropbox"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.Edge"
+					"PackageIdentifier" : "Lenovo.SystemUpdate"
+				},
+				{
+					"PackageIdentifier" : "vim.vim.nightly"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Community"
+				},
+				{
+					"PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
+					"PackageIdentifier" : "Tailscale.Tailscale"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
@@ -70,6 +127,9 @@
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.DotNet.Framework.DeveloperPack.4.6"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8"
 				},
 				{
@@ -79,22 +139,49 @@
 					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.7"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2005.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier" : "Apple.AppleSoftwareUpdate"
+				},
+				{
 					"PackageIdentifier" : "Dell.Optimizer"
+				},
+				{
+					"PackageIdentifier" : "Apple.AppleApplicationSupport.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
+				},
+				{
+					"PackageIdentifier" : "Apple.QuickTime"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Runtime.5"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerShell"
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave.Beta"
+				},
+				{
+					"PackageIdentifier" : "DevToys-app.DevToys"
 				},
 				{
 					"PackageIdentifier" : "GIMP.GIMP"
@@ -115,10 +202,16 @@
 					"PackageIdentifier" : "Obsidian.Obsidian"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+					"PackageIdentifier" : "Python.Python.3.13"
 				},
 				{
-					"PackageIdentifier" : "Python.Python.3.13"
+					"PackageIdentifier" : "SlackTechnologies.Slack"
+				},
+				{
+					"PackageIdentifier" : "thebookisclosed.Vive"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.AppInstaller"
@@ -127,7 +220,7 @@
 					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.UI.Xaml.2.7"
+					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
@@ -137,6 +230,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCLibs.14"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.1"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.4"
@@ -160,10 +256,13 @@
 					"PackageIdentifier" : "Microsoft.WSL"
 				},
 				{
+					"PackageIdentifier" : "Python.PythonInstallManager"
+				},
+				{
 					"PackageIdentifier" : "Debian.Debian"
 				}
 			],
-			"SourceDetails" : 
+			"SourceDetails" :
 			{
 				"Argument" : "https://cdn.winget.microsoft.com/cache",
 				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
@@ -172,13 +271,19 @@
 			}
 		},
 		{
-			"Packages" : 
+			"Packages" :
 			[
+				{
+					"PackageIdentifier" : "XPFFTQ037JWMHS"
+				},
+				{
+					"PackageIdentifier" : "XP9KHM4BK9FZ7Q"
+				},
 				{
 					"PackageIdentifier" : "9WZDNCRDJ8LH"
 				}
 			],
-			"SourceDetails" : 
+			"SourceDetails" :
 			{
 				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
 				"Identifier" : "StoreEdgeFD",
