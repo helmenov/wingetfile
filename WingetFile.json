@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-07-15T20:40:36.863-00:00",
+	"CreationDate" : "2026-07-15T21:17:28.270-00:00",
 	"Sources" : 
 	[
 		{
@@ -128,7 +128,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
-					"Version" : "1.126.0"
+					"Version" : "1.128.1"
 				},
 				{
 					"PackageIdentifier" : "Python.Python.3.13",
