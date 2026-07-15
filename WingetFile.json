@@ -1,10 +1,10 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-07-15T22:09:16.407-00:00",
-	"Sources" :
+	"CreationDate" : "2026-07-15T22:17:59.234-00:00",
+	"Sources" : 
 	[
 		{
-			"Packages" :
+			"Packages" : 
 			[
 				{
 					"PackageIdentifier" : "Git.Git"
@@ -64,9 +64,6 @@
 					"PackageIdentifier" : "Python.Launcher"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
 				},
 				{
@@ -98,12 +95,6 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave.Beta"
-				},
-				{
-					"PackageIdentifier" : "astral-sh.uv"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
 					"PackageIdentifier" : "GIMP.GIMP"
@@ -172,7 +163,7 @@
 					"PackageIdentifier" : "Debian.Debian"
 				}
 			],
-			"SourceDetails" :
+			"SourceDetails" : 
 			{
 				"Argument" : "https://cdn.winget.microsoft.com/cache",
 				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
@@ -181,22 +172,13 @@
 			}
 		},
 		{
-			"Packages" :
+			"Packages" : 
 			[
 				{
-					"PackageIdentifier" : "XPFFTQ037JWMHS",
-					"Version" : "150.0.4078.65"
-				},
-				{
-					"PackageIdentifier" : "XP9KHM4BK9FZ7Q",
-					"Version" : "1.127.0"
-				},
-				{
-					"PackageIdentifier" : "9WZDNCRDJ8LH",
-					"Version" : "5.1.7093.0"
+					"PackageIdentifier" : "9WZDNCRDJ8LH"
 				}
 			],
-			"SourceDetails" :
+			"SourceDetails" : 
 			{
 				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
 				"Identifier" : "StoreEdgeFD",
